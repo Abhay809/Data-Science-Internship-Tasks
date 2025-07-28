@@ -1,0 +1,36 @@
+Title: Overview of Cricket Rules and Formats
+
+Cricket is a bat-and-ball game played between two teams of 11 players each. The game is played on a large oval field, with a 22-yard-long pitch at the center. One team bats while the other bowls and fields. The objective is to score more runs than the opponent.
+
+Key Formats:
+1. Test Cricket:
+   - Duration: Up to 5 days
+   - Innings: 2 per side
+   - Traditional and most strategic form of the game
+   - Played with a red ball
+
+2. One Day International (ODI):
+   - 50 overs per side
+   - Played in a single day
+   - White ball, colored uniforms
+   - Popular format in World Cups
+
+3. Twenty20 (T20):
+   - 20 overs per side
+   - High-intensity, short format
+   - Emphasis on aggressive batting
+   - Tournaments include IPL, BBL, PSL
+
+Basic Rules:
+- Each over consists of 6 legal deliveries.
+- Batsmen score runs by running between the wickets or hitting boundaries.
+- A batsman can be out in several ways: bowled, caught, LBW, run out, stumped.
+- A bowler can bowl a maximum of 10 overs in ODIs, and 4 in T20s.
+
+Fielding Positions:
+- Common positions include slip, gully, point, cover, mid-off, mid-on, square leg, and fine leg.
+
+Umpires:
+- Two on-field umpires make decisions with support from a third umpire using DRS (Decision Review System).
+
+Cricket is governed internationally by the ICC (International Cricket Council), which sets the rules and organizes major tournaments like the World Cup and the Champions Trophy.

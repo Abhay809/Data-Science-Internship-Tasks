@@ -1,0 +1,26 @@
+Title: Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+Types of AI:
+1. Narrow AI – Designed to perform a narrow task (e.g., facial recognition or internet searches).
+2. General AI – An AI that has generalized human cognitive abilities.
+3. Superintelligent AI – A hypothetical AI that surpasses human intelligence in all aspects.
+
+AI Applications:
+- Natural Language Processing (NLP): Enables machines to understand and respond to human language (e.g., chatbots, translation).
+- Computer Vision: Used in self-driving cars, medical imaging, and facial recognition.
+- Robotics: AI powers autonomous robots that can assist in industries and healthcare.
+- Predictive Analytics: Used in finance, marketing, and supply chain optimization.
+
+Machine Learning:
+A subset of AI that allows systems to learn from data and improve performance over time. Types include:
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
+Deep Learning:
+A subfield of machine learning that uses neural networks with many layers to model complex patterns in data. It powers systems like GPT and image recognition algorithms.
+
+Ethical Considerations:
+AI raises questions about privacy, bias, job displacement, and autonomy. As AI systems grow more powerful, ethical frameworks and regulations are becoming increasingly important.
